@@ -17,18 +17,18 @@ In the first week of the BootCamp, we took on Excel including Data relevant legi
 
 # Power BI
 I found Power BI more intuitive than Tableau... etc. SQL?
+-> screenshots? or how do i visualise my power BI dashboards? do when back at desktop where PBI is installed
 
 
 # SQL
-relentless practical exercises until i ended up dreaming about writing SQL queries in the night. strangely the next day, SQL felt a lot more intuitive.
-screenshots of SQL code including queried data. workbook embed?
+Our instructor had us go through countless exercises relentlessly practicing SQL queries to the point where I dreamt about writing SQL code. The next day, SQL felt a lot more intuitive (You know how they say that when you learn a new language, it's when you dream in that new language, you know you have arrived!). Please take a look at the SQL_Workbook file attached to this repository for further details of what we did including a final project that had us apply SQL in a real world business context.
 
 # Python
-Throughout the BootCamp I took it upon myself to work through as many DataCamp courses as possible in preparation for when we'd delve into Python. During Python week I then spent two days powering through the extensive Cisco Programming Foundations Course (correct name). As part of these programs I learned about the very foundations of coding
+Throughout the BootCamp I took it upon myself to work through as many DataCamp courses as possible in preparation for when we'd delve into Python. During Python week I then spent two days powering through the extensive Cisco Programming Foundations Course (correct name?). As part of these programs I learned about the very foundations of coding which had eluded me throughout my years of self-guided custom software programming. This has really helped me grasp fundamental concepts such as Compiling, Binary, File and Code structure (__init__ files; modules,classes and methods...). I have attached to this repo two simple apps we made as part of the curriculum (ATM and WhizzBuzz). -> check whizzbuzz/wizzbuzz spelling
 
 Pictures:
 DataCamp Certificate Mosaic + Cisco Certificate
-should i add ATM and whizzbuss as code files to repo instead of in readme?
+
 
 
 
