@@ -28,8 +28,8 @@ We delved into the vast expanse of the Azure cloud hosting services. As part of 
 ### Python
 Throughout the BootCamp I took it upon myself to work through as many DataCamp courses as possible in preparation for when we'd get to Python. During Python week I then spent two days powering through the extensive Cisco Python Essentials 1 Course ([Certificate](https://www.credly.com/badges/3496a9b7-b60d-400c-a8d1-b161e407ab1d/public_url)). As part of these programs I learned about the very foundations of coding which had eluded me throughout my years of self-guided custom software programming. This has really helped me grasp fundamental concepts such as Compiling, Binary, File and Code structure (__init__ files; modules,classes and methods...). I have attached to this repo two simple apps we made as part of the curriculum (ATM and FizzBuzz).
 
-Pictures:
-DataCamp Certificate Mosaic
+Alongside the BootCamp I also completed a number of DataCamp courses on Python and SQL
+![DataCampMosaic](https://github.com/user-attachments/assets/c30d10f8-140f-4e1d-9ead-dff0faa11df6)
 
 
 
