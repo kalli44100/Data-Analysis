@@ -32,6 +32,11 @@ Our instructor had us go through countless exercises relentlessly practicing SQL
 ![SQL_Scroll](https://github.com/user-attachments/assets/8dad75ed-595c-4b65-972b-4e1bbb55b853)
 
 
+### Other
+In order to track my progress (and potentially help others on the same project I am doing) I built this data tracking and visualisation app
+![TaskStats](https://github.com/user-attachments/assets/a7487c63-7b10-44df-b419-fb561710b819)
+
+
 
 
 
