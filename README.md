@@ -33,7 +33,7 @@ Our instructor had us go through countless exercises relentlessly practicing SQL
 
 
 ### Other
-In order to track my progress (and potentially help others on the same project I am doing) I built this data tracking and visualisation app
+Since the BootCamp, I have built an app to track work tasks and visualise progress and efficiency (see below GIF) as well as a workout app to help me time a 4x4 Norwegian workout regime. The next challenge is a C++ app to create Binaural beats to help with sleep and meditation (I haven't found any that I like and since I studied Sound Synthesis, I may as well do it better myself:)
 ![TaskStats](https://github.com/user-attachments/assets/a7487c63-7b10-44df-b419-fb561710b819)
 
 
